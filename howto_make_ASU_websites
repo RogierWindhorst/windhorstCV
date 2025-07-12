@@ -1,0 +1,23 @@
+# ==============================================================================
+#
+# TO ACCESS phyastweb CLASS PAGES FOR EVERY CLASS DO:
+#
+# cd /Users/raw/teach/windhorstCV/   %%% Use this dir only with github
+
+# LOCAL URL: file:///Users/raw/teach/windhorstCV/index.html
+
+# Put backup files on mirror site on Microjansky:
+
+### scp -pr *.html raw@microjansky.la.asu.edu:/var/www/lambda/raw/jwst/cv/
+
+scp -pr * raw@microjansky.la.asu.edu:/var/www/lambda/raw/jwst/cv/
+
+# Backup files on Microjansky are on:
+#
+# http://lambda.la.asu.edu/jwst/cv/
+#
+# ssh raw@microjansky.la.asu.edu
+# passwd:
+#
+# cd /var/www/lambda/raw/jwst/cv/
+
