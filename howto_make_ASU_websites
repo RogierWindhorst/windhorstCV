@@ -14,7 +14,7 @@ scp -pr * raw@microjansky.la.asu.edu:/var/www/lambda/raw/jwst/cv/
 
 # Backup files on Microjansky are on:
 #
-# http://lambda.la.asu.edu/jwst/cv/
+# http://lambda.la.asu.edu/raw/jwst/cv/
 #
 # ssh raw@microjansky.la.asu.edu
 # passwd:
